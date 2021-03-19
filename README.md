@@ -1,6 +1,6 @@
 ### Hi there, I'm mander
 
-Friendly neighborhood tech support and residental linux nerd who is dabbling in haskell a lot.
+Friendly neighborhood tech support and residental linux nerd who is dabbling in programming.
 
 Currently I am working on:
 - remander - a tool to help my adhd by managing to-do lists
