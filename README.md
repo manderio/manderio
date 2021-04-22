@@ -7,6 +7,7 @@ Currently working as a sysadmin/devops junior in a windows enviroment
 Currently I am working on:
 - remander - a tool to help my adhd by managing to-do lists
 - manderbot - a bot for discord that will be using remander, although this is a later project
+- mander.io - my network setup and structure
 
 Languages I ~~know~~ am learning atm:
 - Python
