@@ -10,13 +10,14 @@ Currently I am working on:
 
 Languages I ~~know~~ am learning atm:
 - Python
-- Haskell
-- Powershell (regrettably)
-- Will pick up rust at some point when I am less of a dumbdumb
+- Haskell (on pause at this time)
+- Powershell (for windows administration)
+- Starting with Kotlin soon enough
+- Will pick up Rust at some point when I am less of a dumbdumb
 
 My interests include:
 - breaking software
 - fixing software
 - linux related things
 
-Please do not come for me, I am shit at everything I am doing and very new to this. 
+Please do not come for me, I am bad at everything I am doing and very new to this. 
