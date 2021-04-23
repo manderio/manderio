@@ -6,8 +6,13 @@ Currently working as a sysadmin/devops junior in a windows enviroment
 
 Currently I am working on:
 - remander - a tool to help my adhd by managing to-do lists
+- mandolin - a discord bot I am writing in kotlin
 - manderbot - a bot for discord that will be using remander, although this is a later project
 - mander.io - my network setup and structure
+
+_Note, all my projects are private repos at the moment since they are being started, however, 
+if you would like to know more, feel free to just ask me about it. I am always happy to
+discuss what I am working on at the moment_
 
 Languages I ~~know~~ am learning atm:
 - Python
@@ -19,6 +24,7 @@ Languages I ~~know~~ am learning atm:
 My interests include:
 - breaking software
 - fixing software
+- mainly the first one
 - linux related things
 
 Please do not come for me, I am bad at everything I am doing and very new to this. 
