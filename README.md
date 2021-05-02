@@ -29,4 +29,4 @@ My interests include:
 - mainly the first one
 - linux related things
 
-Please do not come for me, I am bad at everything I am doing and very new to this. 
+Please do not come for me, but if you do, I will be extremely supportive and try to help you as much as possible.
