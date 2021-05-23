@@ -1,33 +1,30 @@
-### Hi there, I'm mander
+## Hi there, I'm mander
+Friendly neighborhood tech support and residental linux nerd as well as hug provider dabbling in programming!
 
-Friendly neighborhood tech support and residental linux nerd who is dabbling in programming.
+#### Quickly about me
 Currently working as a sysadmin/devops junior in a windows enviroment 
 (that is fluff for i do tech support with occasional scripting and deployments in CM)
 
-Currently I am working on:
-- remander - a tool to help my adhd by managing to-do lists
-- mandotlin - a discord bot I am writing in kotlin to learn discord API and Kotlin
+                  ____________________________________________________________________________________
+                  | Languages I learn:                          | My interests include:              |
+                  |---------------------------------------------|------------------------------------|
+                  | - Python (but rarely use it)                | - breaking software                |
+                  | - Haskell (on pause at this time)           | - fixing software                  |
+                  | - Powershell (for windows administration)   | - writing software                 |
+                  | - Kotlin (learning it)                      | - linux related things             |
+                  | - Barely any Rust                           | - mainly the first one             |
+                  |_____________________________________________|____________________________________|
+                 
+                 
+##### Currently I am working on
+- [remander](https://github.com/manderio/remande.rs) - a tool to help my adhd by managing to-do lists
+- [mandotlin](https://github.com/manderio/mandotlin) - a discord bot I am writing in kotlin to learn discord API and Kotlin
+- [mandots](https://github.com/manderio/mandots) - my linux dotfiles
 - mander.io - my network setup and structure
 
-Upcoming projects:
-- manderbot - a bot for discord that will be using remander, although this is a later project
+#### Upcoming projects
 
-_Note, some of my projects private repos at the moment since they are being started, however, 
-if you would like to know more, feel free to just ask me about it. I am always happy to
-discuss what I am working on!_
+- manderbot - yet another bot for discord that will be using remander, although this is a later project
+- haskell chess - just wanna implement some chess in haskell to learn the language better 
 
-Languages I ~~know~~ am learning atm:
-- Python (but rarely use it)
-- Haskell (on pause at this time)
-- Powershell (for windows administration)
-- Kotlin (learning it)
-- Barely any Rust
-
-
-My interests include:
-- breaking software
-- fixing software
-- mainly the first one
-- linux related things
-
-Please do not come for me, I am bad at everything I am doing and very new to this. 
+_**Please do not come for me, I am bad at everything I am doing and very new to this.**_
