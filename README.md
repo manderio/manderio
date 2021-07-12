@@ -2,8 +2,9 @@
 Friendly neighborhood tech support and residental linux nerd as well as hug provider dabbling in programming!
 
 #### Quickly about me
-Currently working as a sysadmin/devops junior in a windows enviroment 
-(that is fluff for i do tech support with occasional scripting and deployments in CM)
+Formerly worked as a sysadmin/devops junior in a windows enviroment 
+(that is fluff for i do tech support with occasional scripting and deployments in CM). Now I jumped over to 
+Networks and linux as my main focus, but still work a bit in windows with automation!
 
                   ____________________________________________________________________________________
                   | Languages I learn:                          | My interests include:              |
