@@ -23,6 +23,9 @@ Networks and linux as my main focus, but still work a bit in windows with automa
 - [mandots](https://github.com/manderio/mandots) - my linux dotfiles
 - mander.io - my network setup and structure
 
+#### Contributing to
+- [eww](https://github.com/elkowar/eww) - writing documentation for the yuck config rewrite by elkowar
+
 #### Upcoming projects
 
 - manderbot - yet another bot for discord that will be using remander, although this is a later project
